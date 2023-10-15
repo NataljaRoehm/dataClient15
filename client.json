@@ -1,0 +1,40 @@
+ {
+        "name": "Иван Пупков",
+        "email": "ivan@example.com",
+        "phone": "123-456-7890",      
+    },
+    {
+        "name": "Наталья Петрова",
+        "email": "natalja@example.com",
+        "phone": "987-654-3210",      
+    },
+    {
+        "name": "Анна Сидорова",
+        "email": "anna@example.com",
+        "phone": "555-555-5555",     
+    },
+    {
+        "name": "Мария Павлова",
+        "email": "maria@example.com",
+        "phone": "333-333-3333",  
+    },
+    {
+        "name": "Петя Курочкин",
+        "email": "petja@example.com",
+        "phone": "777-777-7777",    
+    },
+    {
+        "name": "Алексей Козлов",
+        "email": "alex@example.com",
+        "phone": "111-111-1111",    
+    },
+    {
+        "name": "Кирилл Иванов",
+        "email": "kirill@example.com",
+        "phone": "222-222-2222",     
+    },
+    {
+        "name": "Дмитрий Петров",
+        "email": "dmitri@example.com",
+        "phone": "444-444-4444",     
+    }
