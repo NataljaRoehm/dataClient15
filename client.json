@@ -1,4 +1,5 @@
- {
+[
+{
         "name": "Иван Пупков",
         "email": "ivan@example.com",
         "phone": "123-456-7890",      
@@ -38,3 +39,4 @@
         "email": "dmitri@example.com",
         "phone": "444-444-4444",     
     }
+]
